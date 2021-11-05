@@ -1,0 +1,6 @@
+format_version: v1.0
+type: UniqueComponent
+attributes: {id: tc3}
+children:
+- type: ElementPosition
+  attributes: {x: '113', y: '416', id: tc3}
